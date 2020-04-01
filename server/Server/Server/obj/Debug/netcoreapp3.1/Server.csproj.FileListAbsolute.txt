@@ -1,0 +1,11 @@
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\Client and server\server\Server\Server\bin\Debug\netcoreapp3.1\Server.exe
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\Client and server\server\Server\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\Client and server\server\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\Client and server\server\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\Client and server\server\Server\Server\bin\Debug\netcoreapp3.1\Server.dll
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\Client and server\server\Server\Server\bin\Debug\netcoreapp3.1\Server.pdb
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\Client and server\server\Server\Server\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\Client and server\server\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\Client and server\server\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\Client and server\server\Server\Server\obj\Debug\netcoreapp3.1\Server.dll
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\Client and server\server\Server\Server\obj\Debug\netcoreapp3.1\Server.pdb
